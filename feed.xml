@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2021-04-18T22:10:58+00:00</updated><id>/blog/feed.xml</id><title type="html">The Grumpy Portuguese Software Engineer</title><subtitle>A Grumpy Software Engineer sharing random thoughts about random stuff that gets him annoyed or is stuck in his head.</subtitle><entry><title type="html">Olá Mundo ヽ(ಠ_ಠ)ノ!</title><link href="/blog/2021/04/18/ola-mundo.html" rel="alternate" type="text/html" title="Olá Mundo ヽ(ಠ_ಠ)ノ!" /><published>2021-04-18T12:00:00+00:00</published><updated>2021-04-18T12:00:00+00:00</updated><id>/blog/2021/04/18/ola-mundo</id><content type="html" xml:base="/blog/2021/04/18/ola-mundo.html">&lt;h1 id=&quot;hello-world&quot;&gt;Hello World!&lt;/h1&gt;
+
+&lt;p&gt;Everyone knows that software people can not start anything without an ‘&lt;em&gt;&lt;strong&gt;Hello World!&lt;/strong&gt;&lt;/em&gt;’.&lt;/p&gt;
+
+&lt;p&gt;This is the first and introductory post of &lt;strong&gt;The Grumpy Portuguese Software Engineer&lt;/strong&gt;.
+Just to make it clear, there is no direct correlation between &lt;strong&gt;Grumpy&lt;/strong&gt;,
+&lt;strong&gt;Portuguese&lt;/strong&gt; and &lt;strong&gt;Software Engineer&lt;/strong&gt;, I personally know many:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Happy Portuguese&lt;/li&gt;
+  &lt;li&gt;Happy Software Engineers&lt;/li&gt;
+  &lt;li&gt;Happy Portuguese Software Engineers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As the years pass by,
+my memory is not the same anymore,
+I am not sure if it is the effect of the age itself,
+or the brain kind of getting even for every time I said “&lt;em&gt;this is the last pint&lt;/em&gt;” and it was not,
+or due to the fact that I experienced the joy of fatherhood recently and
+it came with many sleepless nights…&lt;br /&gt;
+the &lt;strong&gt;why&lt;/strong&gt; it is not clear,
+but it is clear that the my memory it is not as great as it was.&lt;/p&gt;
+
+&lt;p&gt;To avoid sharing the destiny with &lt;em&gt;Sisyphus&lt;/em&gt; carrying the same rock up the hill for eternity,
+I decided to write here the problems and thoughts that torment me,
+it will not fix anything but when I came across with same issue,
+instead of repeating again all the process in my mind,
+iterating by all the crazy ideas and options in my head,
+I can just jump to the conclusion “&lt;strong&gt;&lt;em&gt;Embrace the suck…&lt;/em&gt;&lt;/strong&gt;” …&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello World!</summary></entry></feed>
