@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Olá Mundo ヽ(ಠ_ಠ)ノ!"
+date:   2021-04-18 13:00:00 +0100
+categories:
+---
+# Hello World!
+
+Everyone knows that software people can not start anything without an '_**Hello World!**_'.
+
+This is the first and introductory post of **The Grumpy Portuguese Software Engineer**.
+Just to make it clear, there is no direct correlation between **Grumpy**,
+**Portuguese** and **Software Engineer**, I personally know many:
+* Happy Portuguese
+* Happy Software Engineers
+* Happy Portuguese Software Engineers
+
+
+As the years pass by,
+my memory is not the same anymore,
+I am not sure if it is the effect of the age itself,
+or the brain kind of getting even for every time I said "_this is the last pint_" and it was not,
+or due to the fact that I experienced the joy of fatherhood recently and
+it came with many sleepless nights...  
+the **why** it is not clear,
+but it is clear that the my memory it is not as great as it was.
+
+
+To avoid sharing the destiny with *Sisyphus* carrying the same rock up the hill for eternity,
+I decided to write here the problems and thoughts that torment me,
+it will not fix anything but when I came across with same issue,
+instead of repeating again all the process in my mind,
+iterating by all the crazy ideas and options in my head,
+I can just jump to the conclusion "***Embrace the suck...***" ...
